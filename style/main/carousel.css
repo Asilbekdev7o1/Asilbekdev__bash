@@ -1,0 +1,106 @@
+@import url('../fonts.css');
+
+
+.carousel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+}
+
+.carousel__father {
+    display: flex;
+}
+
+.carousel__img {
+    width: 50%;
+}
+
+
+.btn-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.custom {
+    display: flex;
+    gap: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.group {
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.group-bg {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2px;
+}
+
+.Kamanda {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.list-group {
+    font-size: 50px;
+    display: flex;
+    text-align: center;
+}
+
+.list-group-item {
+    background: black;
+    color: aqua;
+
+}
+
+.list-group-item__two {
+    background: rgb(0, 21, 255);
+    color: aqua;
+
+}
+
+.list-group-item__three {
+    background: black;
+    color: rgb(169, 128, 128);
+
+}
+
+.list-group-item__five {
+    background: rgb(185, 23, 23);
+    color: aqua;
+
+}
+
+.list-group-item__olti {
+    background: rgb(144, 95, 95);
+    color: aqua;
+
+}
+
+.block{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.link-light{
+
+    color: blueviolet;
+}
+
+.one{
+    text-align: center
+}
+
+.two{
+    margin-top: 50px;
+}
